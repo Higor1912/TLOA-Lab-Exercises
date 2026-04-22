@@ -1,0 +1,15 @@
+# Sensitive data — never commit
+*.pcap
+*.cap
+hashes/
+loot/
+*.hash
+*.txt.cracked
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
